@@ -2517,6 +2517,17 @@ File: amdgpu/navy_flounder_smc.bin
 File: amdgpu/navy_flounder_sos.bin
 File: amdgpu/navy_flounder_ta.bin
 File: amdgpu/navy_flounder_vcn.bin
+File: amdgpu/vangogh_asd.bin
+File: amdgpu/vangogh_ce.bin
+File: amdgpu/vangogh_dmcub.bin
+File: amdgpu/vangogh_me.bin
+File: amdgpu/vangogh_mec.bin
+File: amdgpu/vangogh_mec2.bin
+File: amdgpu/vangogh_pfp.bin
+File: amdgpu/vangogh_rlc.bin
+File: amdgpu/vangogh_sdma.bin
+File: amdgpu/vangogh_toc.bin
+File: amdgpu/vangogh_vcn.bin
 File: amdgpu/arcturus_asd.bin
 File: amdgpu/arcturus_gpu_info.bin
 File: amdgpu/arcturus_mec2.bin
