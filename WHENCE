@@ -3731,6 +3731,8 @@ File: ath11k/WCN6750/hw1.0/Notice.txt
 Version: WLAN.QUC.1.1.1.1-01234-QCA206X-1
 File: ath11k/QCA206X/hw2.1/amss.bin
 File: ath11k/QCA206X/hw2.1/board.bin
+File: ath11k/QCA206X/hw2.1/boardg.bin
+File: ath11k/QCA206X/hw2.1/board-2.bin
 File: ath11k/QCA206X/hw2.1/DATA.msc
 File: ath11k/QCA206X/hw2.1/m3.bin
 File: ath11k/QCA206X/hw2.1/regdb.bin
@@ -4541,6 +4543,8 @@ File: qca/hpnv21.301
 File: qca/hpnv21.302
 File: qca/hpnv21g.301
 File: qca/hpnv21g.302
+File: qca/hpvn21.309
+File: qca/hpnv21g.309
 
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and qca/NOTICE.txt for details
